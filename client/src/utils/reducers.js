@@ -13,9 +13,9 @@ import {
 } from './actions';
 
 const initialState = {
-  prducts: [],
+  products: [],
   categories: [],
-  currentCategory: [],
+  currentCategory: '',
   carts: [],
   cartOpen: false,
 };
